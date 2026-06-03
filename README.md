@@ -27,7 +27,7 @@ See EDA for more details on the dataset.
 
 **Python:** Pandas, Numpy, matplotlib, seaborn, math
 
-## Some Insights and Conclussions
+## Some Insights and Conclusions
 
 Fraud in this dataset is driven not by the timing of transactions, but by geographic inconsistencies, financial behavior anomalies, security-related signals, and user profile characteristics.
 
