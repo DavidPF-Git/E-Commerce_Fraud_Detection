@@ -44,3 +44,5 @@ Fraud in this dataset is driven not by the timing of transactions, but by geogra
 - The data provide no evidence that attackers typically engage in large bursts of transactions. The conventional assumption that fraud is characterized by "multiple transactions occurring within a short time frame" is not supported by the observed patterns. Fraudsters also do not typically engage in excessively large purchases.
 
 - Fraud is a multidimensional phenomenon that emerges when multiple weak signals co-occur, such as recently created accounts, long shipping distances, anomalous spending relative to historical patterns, and geographic inconsistencies.
+
+- Improved performance is expected from tree-based and boosting models compared to simple linear models.
